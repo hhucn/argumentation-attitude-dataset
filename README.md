@@ -65,4 +65,5 @@ We provide the following files:
 
 ## Relevant publications
 
-Markus Brenneis, Maike Behrendt, Stefan Harmeling. 2021. How Will I Argue? A Dataset for Evaluating Recommender Systems for Argumentations. *Proceedings of the 22nd Annual SIGdial Meeting on Discourse and Dialogue* (to appear)
+Markus Brenneis, Maike Behrendt, and Stefan Harmeling (July 2021). “How Will I Argue? A Dataset for Evaluating Recommender Systems for Argumentations”. In: *Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue.* Singapore and
+Online: Association for Computational Linguistics, pp. 360–367
