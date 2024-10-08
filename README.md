@@ -29,7 +29,20 @@ The data has been collected at four different points of time, where different pa
 * T2: second main experiment with 289 participants (subset of users from T1); opinions and opinion strengths on plastic packaging and genetic engineering; opinions and convincingness on 6 randomly selected argument for/against plastic packing (3 randomly selected supporting, and 3 randomly selecting attacking arguments); users were able to contribute own arguments on the topic plastic packaging (relevant statement ids: 364-399)
 * T3: third main experiment with 229 participants (subset of users from T2); opinions and opinion strengths on plastic packaging and genetic engineering; opinions and convincingness on 6 randomly selected argument for/against genetic engineering (3 randomly selected supporting, and 3 randomly selecting attacking arguments); users were able to contribute own arguments on the topic genetic engineering (relevant statement ids: 325-362)
 
-For details on the data collection and the context of the original experiment (which included more groups and users, where the presentation of arguments was different), see <TBA>.
+For details on the data collection and the context of the original experiment (which included more groups and users, where the presentation of arguments was different), see [Kelm et al.](https://www.sciencedirect.com/science/article/pii/S2451958823000763?via%3Dihub).
+
+### Exact questions
+
+The subjective assessment of the test subjects was recorded. The subjects themselves decided whether an argument was pro/contra and how strong it was considered to be. The exact wording of the questions was:
+
+- Die folgenden Argumente hat ein Algorithmus aus der Menge von Argumenten ausgewählt, die andere Personen genannt haben. Stimme Sie diesen Argumenten eher zu oder eher nicht zu? stimme zu / stimme nicht zu
+  - The following arguments have been selected by an algorithm from the set of arguments that other people have mentioned. Do you tend to agree or disagree with these arguments? agree / disagree
+- Geben Sie an, wie stark Sie die Argumente zu `<Position>` finden. sehr schwach - - - - - sehr stark
+  - Indicate how strongly you agree with the arguments about `<position>`. very weak - - - - - - very strong
+- Stimmen Sie dieser Aussage eher zu oder eher nicht zu? `<Position>` Ich stimme zu / Ich stimme nicht zu
+  - Do you agree or disagree with this statement? `<position>` I agree / I disagree
+- Wie sicher sind Sie sich mit Ihrer Meinung? sehr unsicher - - - - - - - sehr sicher
+  - How sure are you of your opinion? very unsure - - - - - - - - very sure
 
 ## Provided files
 
